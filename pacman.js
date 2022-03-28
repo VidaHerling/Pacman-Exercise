@@ -1,5 +1,4 @@
 //pacmen1.js: use setTimeout in the Run() function
-//pacmen2.js: use setInterval in the Run() function
 
 var pos = 0;
 const pacArray = [
