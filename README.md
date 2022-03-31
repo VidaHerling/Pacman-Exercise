@@ -1,11 +1,11 @@
-# Pacman_Exercise
+# Pacman Exercise
 A JavaScript exercise to keep the Pacman moving along the x-axis and reverse trajectory once the Pacman hits the edge of the screen on the x-axis.
 
 ## Description
 * This is an exercise from the MIT|XPro - Professional Certificate for Coding
-* My tasks in this exercies were to
+* My tasks in this exercise were to
   * update the starter code with setInterval() or setTimeout() and 
-  * to add screen dection to the Pacman animation so it reverses direction after hitting the edge.
+  * add screen dection to the Pacman animation so it reverses direction after hitting the edge.
 
 ## How to Run
 You may clone this repo to your local machine and make any modification as you like. Have fun! 
